@@ -1,25 +1,52 @@
-# Welcome to the "Cohort 2.0 Assignments" Repository! 🚀
+# 📘 Welcome to the "Cohort 2.0 Assignments" Repository! 🚀
 
-## About
-This repository contains all the assignments and exercises from the **Cohort 2.0** program, mentored by **Harkirat Singh**. The assignments cover a wide range of topics across **JavaScript, Backend Development, Frontend Development, DevOps, and System Design** to build a solid foundation in full-stack development.
+## 📖 About
 
-## What's Inside
+This repository contains all the assignments and exercises from the **Cohort 2.0** program, mentored by **Harkirat Singh**.  
+It spans a wide range of topics in **JavaScript**, **Backend**, **Frontend**, **DevOps**, and **System Design**, helping you build a strong foundation in **full-stack development**.
 
-- **📚 Foundational Concepts:** JavaScript fundamentals, async programming, Node.js runtime, and databases (MongoDB, PostgreSQL).
-- **🖥️ Backend Development:** Express.js, ORMs, middleware, authentication, scaling, and API specifications.
-- **🌐 Frontend Development:** React, state management, UI frameworks, Next.js, and frontend performance optimization.
-- **⚙️ DevOps Essentials:** Docker, Kubernetes, CI/CD, AWS, and cloud deployment strategies.
-- **🏗️ Projects:** Hands-on experience with real-world applications like payment systems, authentication flows, and large-scale system design.
+---
 
-## How to Use
+## 🧠 What's Inside
 
-1. **📂 Browse** through the repository to find assignment folders categorized by topics.
-2. **🚀 Solve** the assignments and refer to solutions if needed.
-3. **📝 Document** your learnings and implementations to reinforce concepts.
+```
+📚 Foundational Concepts:
+   - JavaScript basics, async programming  
+   - Node.js runtime, MongoDB & PostgreSQL  
 
-## Get Started
+🖥️ Backend Development:
+   - Express.js, ORMs, middleware, authentication  
+   - API standards, backend scaling & performance  
 
-Ready to dive into full-stack development? Clone the repository and start working on the assignments! 💻☕
+🌐 Frontend Development:
+   - React (beginner to advanced), Context API  
+   - Recoil, Tailwind CSS, Next.js, performance tuning  
+
+⚙️ DevOps Essentials:
+   - Docker, Kubernetes, CI/CD pipelines  
+   - AWS services, cloud deployment (Fly.io, Remix, etc.)  
+
+🏗️ Hands-on Projects:
+   - Wallet systems, custom auth flows  
+   - System design challenges and scalable architecture  
+```
+
+---
+
+## 🛠️ How to Use
+
+```
+1. 📂 Browse through folders categorized by topics/modules  
+2. 🚀 Solve the assignments independently  
+3. 📝 Document your learnings and compare with provided solutions  
+```
+
+---
+
+## 🚀 Get Started
+
+Ready to dive into full-stack development?  
+Clone the repo and start solving real-world assignments! 💻☕
 
 ```bash
 git clone https://github.com/ankur1435/cohort-2.0-assignments
@@ -27,4 +54,7 @@ git clone https://github.com/ankur1435/cohort-2.0-assignments
 
 ---
 
-Let's build and learn together! 🚀🔥
+## 📬 Connect With Me
+
+🔗 LinkedIn: [Ankur Sharma](https://www.linkedin.com/in/ankur-sharma-3a6037226/)  
+🐦 X (Twitter): [@__ankur01__](https://x.com/__ankur01__)  
